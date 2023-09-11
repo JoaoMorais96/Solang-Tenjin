@@ -15,7 +15,7 @@ payOut = "Bozf7oMUxHqwPYsh7kLvNgJdBFFYVDDKvMKTYz7kGW8R"
 
 [provider]
 cluster = "Localnet"
-wallet = "/home/orais91/.config/solana/id.json"
+wallet = <EDIT HERE>
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
